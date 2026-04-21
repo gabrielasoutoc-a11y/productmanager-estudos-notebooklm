@@ -38,9 +38,9 @@ Dentro do ciclo de vida do produto, destaca-se o modelo de Dual Track Agile, que
 
 Com o avanço da Inteligência Artificial, especialmente entre 2025 e 2026, o papel do Product Manager passou por uma transformação significativa. A IA deixou de ser apenas uma ferramenta de suporte e passou a atuar como um verdadeiro copiloto estratégico. Atividades como pesquisa de mercado, análise de feedbacks e documentação foram drasticamente aceleradas. O que antes levava dias pode ser realizado em minutos, como no caso de sprints de discovery altamente acelerados. Além disso, tarefas repetitivas como geração de PRDs, histórias de usuário e notas de lançamento passaram a ser parcialmente automatizadas, reduzindo significativamente o esforço operacional.
 
-Nesse novo cenário, o Product Manager assume um papel mais estratégico, focado em tomada de decisão, visão de produto e interpretação de dados. Isso exige novas competências, como alfabetização em IA, capacidade de compreender limitações e vieses dos modelos, além de habilidades de data storytelling para transformar dados complexos em narrativas acionáveis.
 --------------------------------------------------------------------------------
-2. Glossário de Conceitos Chave
+2. Glossário de Conceitos Chave </br>
+
 Jobs to be Done (JTBD): Framework que defende que usuários não compram produtos, mas os "contratam" para realizar um "trabalho" específico em suas vidas.</br>
 
 MVP (Produto Mínimo Viável): A versão mais simples de um produto usada como experimento para testar hipóteses fundamentais de negócio com o mínimo esforço.</br>
@@ -60,10 +60,15 @@ RAG (Geração Aumentada de Recuperação): Arquitetura que permite à IA acessa
 --------------------------------------------------------------------------------
 3. Prompts Reutilizáveis para Revisão e Apoio
 Para Síntese de Discovery: "Atue como um Product Manager Sênior. Analise as seguintes notas de entrevistas com usuários e extraia os 3 principais 'Jobs to be Done', as frustrações emocionais e as oportunidades de solução ponderadas pelo impacto no negócio."</br>
+</br>
 Para Geração de PRD: "Com base na visão de produto [X] e no problema [Y], rascunhe um PRD (Documento de Requisitos de Produto) que inclua objetivos, personas, histórias de usuário com critérios de aceitação detalhados e as métricas de sucesso (KPIs e North Star)."</br>
+</br>
 Para Priorização de Backlog: "Utilize o framework RICE para avaliar as seguintes iniciativas. Atribua pontuações baseadas em [contexto do produto] e sugira uma ordem de priorização que equilibre ganhos rápidos com visão estratégica."</br>
+</br>
 Para Pesquisa de Mercado (Estilo Perplexity): "Realize um levantamento do mercado de [Setor]. Calcule o TAM/SAM/SOM estimado, liste os 5 principais concorrentes com uma comparação de funcionalidades/preços e identifique as tendências de IA que estão moldando este segmento em 2025."</br>
+</br>
 Para Análise de Métricas: "Interprete estes dados de retenção e churn. Identifique anomalias que possam indicar 'Model Drift' ou fricção na experiência do usuário e sugira 3 experimentos de curto prazo para reverter a tendência."</br>
+</br>
 
 # Mapa Mental gerado pelo NotebookLM
 
