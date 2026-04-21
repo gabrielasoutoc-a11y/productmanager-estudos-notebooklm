@@ -39,7 +39,7 @@ Dentro do ciclo de vida do produto, destaca-se o modelo de Dual Track Agile, que
 Com o avanço da Inteligência Artificial, especialmente entre 2025 e 2026, o papel do Product Manager passou por uma transformação significativa. A IA deixou de ser apenas uma ferramenta de suporte e passou a atuar como um verdadeiro copiloto estratégico. Atividades como pesquisa de mercado, análise de feedbacks e documentação foram drasticamente aceleradas. O que antes levava dias pode ser realizado em minutos, como no caso de sprints de discovery altamente acelerados. Além disso, tarefas repetitivas como geração de PRDs, histórias de usuário e notas de lançamento passaram a ser parcialmente automatizadas, reduzindo significativamente o esforço operacional.
 
 --------------------------------------------------------------------------------
-2. Glossário de Conceitos Chave </br>
+# Glossário de Conceitos Chave </br>
 
 Jobs to be Done (JTBD): Framework que defende que usuários não compram produtos, mas os "contratam" para realizar um "trabalho" específico em suas vidas.</br>
 
@@ -58,7 +58,7 @@ RAG (Geração Aumentada de Recuperação): Arquitetura que permite à IA acessa
 
 
 --------------------------------------------------------------------------------
-3. Prompts Reutilizáveis para Revisão e Apoio
+# Prompts Reutilizáveis para Revisão e Apoio</br>
 Para Síntese de Discovery: "Atue como um Product Manager Sênior. Analise as seguintes notas de entrevistas com usuários e extraia os 3 principais 'Jobs to be Done', as frustrações emocionais e as oportunidades de solução ponderadas pelo impacto no negócio."</br>
 </br>
 Para Geração de PRD: "Com base na visão de produto [X] e no problema [Y], rascunhe um PRD (Documento de Requisitos de Produto) que inclua objetivos, personas, histórias de usuário com critérios de aceitação detalhados e as métricas de sucesso (KPIs e North Star)."</br>
